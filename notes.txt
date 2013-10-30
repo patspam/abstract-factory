@@ -1,0 +1,33 @@
+Look at the Sky
+repeat {
+  A (maybe just strum on rhythm, or echo rhythm)
+  A->G->F#->F
+  DA, CG*G
+}
+D G A F C x 4
+A...
+
+Bitter (blues in A, drone with E string)
+A A ADCA (EGA)
+EGA..
+
+Hold On
+repeat {
+  G#A..x 4
+  A D A D
+  E D A EGE EGE
+  A E x 4
+  (E A B)
+}
+D C# C B/E
+E C D A
+
+Don't Stop Drinking
+repeat {
+  repeat {
+    E A (AG#E)
+    A#BBBB, G#AAAA, E
+  }
+  EBDE, GAA#B x 4
+  EEA#BDG, EEAA#BG x 4 ( EGE)
+}
