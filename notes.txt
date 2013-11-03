@@ -1,11 +1,32 @@
 Look at the Sky
-repeat {
-  A (maybe just strum on rhythm, or echo rhythm)
-  A->G->F#->F
-  DA, CG*G
-}
-D G A F C x 4
-A...
+---------------
+Head { ( A G# G G# A ) x 4 }
+(
+  Pre-verse { A G F# F }
+  Verse {
+    ( D' F#' F' E' A' D# A B
+      C' E' D#' D' G' C# G G#~) x 4
+    ( A G# G G# A ) x 4
+  }
+  Head()
+) x 2
+Chorus { ( D G D F C ) x 4 } // 1:40
+
+Bridge { A A.A.G.A [ A A' G# G ] } // 2:04
+X { ( A A E.F#.G A.D E.G.A.C.D ) x 8 } // 2:10
+Bridge() // 2:50
+
+Verse() // 2:56
+Head() // 3:13
+
+Chorus() // 3:25
+
+Bridge() // 3:48
+Verse()
+Head() // 4:10
+Head() // up an octave
+Outro() { ( A A.A.G.A A.G.A . . . ) x 4 }
+
 
 Bitter (blues in A, drone with E string)
 A A ADCA (EGA)
