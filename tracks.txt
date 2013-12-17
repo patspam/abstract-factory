@@ -29,6 +29,7 @@ Outro() { ( A A.A.G.A A.G.A . . . ) x 4 }
 
 
 Bitter (blues in A, drone with E string)
+--> need to find a counter rhythm/melody
 A A ADCA (EGA)
 EGA..
 
@@ -46,9 +47,9 @@ E C D A
 Don't Stop Drinking
 repeat {
   repeat {
-    E A (AG#E)
+    E A (A G#.E)
     A#BBBB, G#AAAA, E
   }
-  EBDE, GAA#B x 4
-  EEA#BDG, EEAA#BG x 4 ( EGE)
+  E.B.D.E, G.A.A#.B x 4
+  E.E.A#.B.D.G, E.E.A.A#.B.G x 4 ( EGE)
 }
