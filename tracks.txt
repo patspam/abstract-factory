@@ -1,5 +1,5 @@
 Look at the Sky
----------------
+===============
 Head { ( A G# G G# A ) x 4 }
 (
   Pre-verse { A G F# F }
@@ -28,7 +28,7 @@ Head() // up an octave
 Outro() { ( A A.A.G.A A.G.A . . . ) x 4 }
 
 Bitter
-------
+======
 Verse { // 0:10
  (G)A.A.G'.A'.A.A'.A' (A)  // 4/4
     A.A.A'.G'.E'.G'.G' (A) // 4/4
@@ -49,10 +49,11 @@ Y {
 }
 Guitar Solo { A C D } x a lot
 Chorus() // 2:45
-Start again, to end of Y() // 
+Start again, to end of Y() //
 Chorus() // 4:32 ("I'm not beer..")
 
 Hold On
+=======
 repeat {
   G#A..x 4
   A D A D
@@ -64,6 +65,7 @@ D C# C B/E
 E C D A
 
 Don't Stop Drinking
+===================
 repeat {
   repeat {
     E A (A G#.E)
