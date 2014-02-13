@@ -47,22 +47,25 @@ Y {
     G.G // 2/4
     ( D.D.C.C.A.A ) x 4 // 1:33
 }
-Guitar Solo { A C D } x a lot
+Guitar Solo { A.A.A.A. A.A'A'A'A' A.A.A.A. C.C.C.C.D.D.D.D } x a lot
 Chorus() // 2:45
 Start again, to end of Y() //
-Chorus() // 4:32 ("I'm not beer..")
+Chorus() // 4:32 ("I'm not fetal..")
 
 Hold On
 =======
-repeat {
-  G#A..x 4
-  A D A D
-  E D A EGE EGE
-  A E x 4
-  (E A B)
+A {
+  ( E'.E...  G.#A... ) x 2
+  ( A A.A.A.D.D.A.A ) x 4
+  ( E D A EGE EGE ) x 4
 }
-D C# C B/E
-E C D A
+{
+  ( A E ) x 4
+  ( E A B E )
+}
+A()
+{ D C# C B/E } x 4
+{ E C D A } x 4 // solo
 
 Don't Stop Drinking
 ===================
@@ -74,3 +77,19 @@ repeat {
   E.B.D.E, G.A.A#.B x 4
   E.E.A#.B.D.G, E.E.A.A#.B.G x 4 ( EGE)
 }
+
+Sway
+====
+intro { G A C } // join guitar after first iteration
+verse {
+  G.G. F.G.G. E.F.F.F#F#
+  G.G. G.G'G' G'G.G.G'G'
+} x 4 // in 6/4
+chorus {
+  E.F.F.F.F A.C.C.C.C E.G.G.G.G
+} // in 4/4 "c'mon sway.."
+{ G A C } "don't let me go.."
+{
+  ( G C D ) x 6
+  ( F C G ) x 2
+ } x 3 // guitar solo
