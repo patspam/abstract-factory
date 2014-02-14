@@ -30,7 +30,7 @@ Outro() { ( A A.A.G.A A.G.A . . . ) x 4 }
 Bitter
 ======
 Verse { // 0:10
- (G)A.A.G'.A'.A.A'.A' (A)  // 4/4
+ (G)A.A.G'.A'.A.A'.A' (A)  // 4/4 (don't play first time)
     A.A.A'.G'.E'.G'.G' (A) // 4/4
     A.Ab.G                 // 3/4
 } x 4 (drop final G)
@@ -54,16 +54,16 @@ Chorus() // 4:32 ("I'm not fetal..")
 
 Hold On
 =======
-A {
+X {
   ( E'.E...  G.#A... ) x 2
-  ( A A.A.A.D.D.A.A ) x 4
-  ( E D A EGE EGE ) x 4
+  ( A A.A.A.G.G.A.A ) x 4
+  ( E.E'E'E'E'E' E.D'D'D'D'D' E.A.A.A.A.A E'A.E.G.G.A. E'A.E.G.E.E ) x 4
 }
 {
   ( A E ) x 4
   ( E A B E )
 }
-A()
+X()
 { D C# C B/E } x 4
 { E C D A } x 4 // solo
 
@@ -74,8 +74,9 @@ repeat {
     E A (A G#.E)
     A#BBBB, G#AAAA, E
   }
-  E.B.D.E, G.A.A#.B x 4
-  E.E.A#.B.D.G, E.E.A.A#.B.G x 4 ( EGE)
+  ( E.E.E'E.D.E' G.A.A#.B ) x 4
+  ( E.E.A#.B.D.G, E.E.A.A#.B.G ) x 4
+  ( E ... )
 }
 
 Sway
@@ -83,7 +84,7 @@ Sway
 intro { G A C } // join guitar after first iteration
 verse {
   G.G. F.G.G. E.F.F.F#F#
-  G.G. G.G'G' G'G.G.G'G'
+  ".". ".".". G'G.G.G'G'
 } x 4 // in 6/4
 chorus {
   E.F.F.F.F A.C.C.C.C E.G.G.G.G
@@ -91,5 +92,5 @@ chorus {
 { G A C } "don't let me go.."
 {
   ( G C D ) x 6
-  ( F C G ) x 2
+  chorus() x 2
  } x 3 // guitar solo
