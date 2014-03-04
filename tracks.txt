@@ -55,17 +55,28 @@ Chorus() // 4:32 ("I'm not fetal..")
 Hold On
 =======
 X {
-  ( E'.E...  G.#A... ) x 2
-  ( A A.A.A.G.G.A.A ) x 4
+  ( E... G.A.A.A.A.A... ) x 4 // come in with vocals each time
+  ( A.C.B.A D.E.G' A.G.G.A A ) x 4
   ( E.E'E'E'E'E' E.D'D'D'D'D' E.A.A.A.A.A E'A.E.G.G.A. E'A.E.G.E.E ) x 4
 }
 {
-  ( A E ) x 4
+  ( D'E'A.A'A' D'D'E'E' ) x 4
   ( E A B E )
 }
 X()
-{ D C# C B/E } x 4
-{ E C D A } x 4 // solo
+{
+  E.. A'D'..
+  E.. G#C#..
+  E.. G.C...
+  E.. E.....
+} x 4
+SOLO {
+ ( E C D A ) x 2 // with guitar to get solo started
+ E ( D'D#E' ) x 2
+ C ( B.C.E ) x 2
+ D ( C#D.E ) x 2
+ A ( G#A.E ) x 2
+} x 4
 
 Don't Stop Drinking
 ===================
