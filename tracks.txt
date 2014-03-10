@@ -105,3 +105,12 @@ chorus {
   ( G C D ) x 6
   chorus() x 2
  } x 3 // guitar solo
+
+The Last Song
+=============
+
+( D D.D.G'F#C.F C C.D.D ) x 8
+( G A )
+( B E )
+
+// (E'E'D.E' E.D.C#D.B.C.B.D.)
